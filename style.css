@@ -42,11 +42,11 @@ header > p > a {
 }
 
 section {
-    padding-top: 10vh;
-    padding-bottom: 10vh;
+    padding-top: 45px;
+    padding-bottom: 45px;
     line-height: 1.5em;
     padding-left: 30px;
-    font-size: 2.5vw;
+    font-size: 3vw;
 
 }
 
